@@ -2,4 +2,4 @@
 # Hello GIT!
 # I am Hemanjali Sailusha
 # About
-# Editing in main
+# Resolved conflict
